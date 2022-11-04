@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "sebastien@gmail.com",
+      "password": "$2a$10$hG8yR4/QUYcAfOHDwIWKv.58EsXqYmnF3Kaq9C.PSFkQXC1/BPtwu",
+      "id": 1
+    },
+    {
+      "email": "Aina@gmail.com",
+      "password": "$2a$10$570qwIxZv3L3prs.iXQhnubr8tHwAEysGbvwhKhleTxt2qIe6vZFC",
+      "firstname": "Sebastien",
+      "lastname": "Randriamanana",
+      "confirm": "aina",
+      "id": 2
+    },
+    {
+      "email": "Aina@gmai.com",
+      "password": "$2a$10$qibPvBT6eT8sHK/ndK557u/GhjvOY5joMmOizvjEyyEPFM8AOUGgW",
+      "firstname": "Sebastien",
+      "lastname": "Randriamanana",
+      "confirm": "aina",
+      "id": 3
+    }
+  ]
+}
